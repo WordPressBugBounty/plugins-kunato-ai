@@ -26,7 +26,7 @@ ZZAZZ transforms digital content into a real-time tradable asset through its rev
 This plugin uses an API provided by zzazz to fetch AI-generated prices for articles and track user interactions to improve pricing accuracy.
 
 **Data Sent**:
-- On load: article URL.
+- On load: article URL
 - On interaction: session ID, browser details, and event types such as clicks and page views
 
 **Data Privacy**: No personally identifiable information (PII) is collected or transmitted.
