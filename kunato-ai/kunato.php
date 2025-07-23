@@ -1,15 +1,14 @@
 <?php
 /**
- * @link              https://kunato.ai/
- * @since             1.0.0
- * @package           Kunato
+ * @link              https://zzazz.com/
+ * @package           ZZAZZ
  *
  * @wordpress-plugin
- * Plugin Name:       Kunato.ai
+ * Plugin Name:       ZZAZZ
  * Description:       Instantly price your content with real-time, AI-driven market valuations. Unlock your content’s true worth.
- * Version:           1.1.1
- * Author:            Kunato
- * Author URI:        https://kunato.ai/
+ * Version:           2.0.0
+ * Author:            ZZAZZ
+ * Author URI:        https://zzazz.com/
  * License:           GPL2+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       kunato-ai
